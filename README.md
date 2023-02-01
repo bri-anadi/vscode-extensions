@@ -1,5 +1,5 @@
-# vscode-extensions
-Visual Studio Code Extensions.
+# 230202-VSCode-Extensions-Basic
+Visual Studio Code Extensions Basic.
 
 ---
 
