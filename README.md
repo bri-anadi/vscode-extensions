@@ -1,4 +1,4 @@
-# 230202 - VSCode Extensions Basic
+# 230202-VSCode-Extensions-Basic
 Visual Studio Code Extensions Basic.
 
 ---
